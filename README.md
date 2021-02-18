@@ -1,6 +1,6 @@
 # apkcat
 
-Simple too to debug apk packages
+Simple tool to debug apk packages
 
 ```console
 ~/Developer/caarlos0/apkcat main
